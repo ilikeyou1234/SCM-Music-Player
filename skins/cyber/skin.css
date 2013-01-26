@@ -1,11 +1,11 @@
-#player,#player a{ color:#fff; }
-#player{ background:url(sizerAndVol.png); background-position:bottom; }
-#player .mainImage{ background:url(main.png); }
+#player,#player a{ color:#999; font-family: tahoma;}
+#player{ background:url(http://static.tumblr.com/83zgfej/vQEm0co2b/baseapple1.png); background-position:bottom; } background-color: #fff }
+#player .mainImage{ background:url(http://static.tumblr.com/83zgfej/RUlmiqqd/basesimple.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(playBtn.png); }
+#player #play{ background:url(http://static.tumblr.com/83zgfej/V72mliqrj/play11.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -15,16 +15,16 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#ccc;  }
-#player #seekerBuffered{ background-color:#4b575d; }
-#player #seekerSliderBase{ background-color:#ccc; }
+#player #seekerBase{ border-color:#fff;  }
+#player #seekerBuffered{ background-color:#DBD9D9; }
+#player #seekerSliderBase{ background-color:#999; }
 
-#player #volume{ width:85px; right:25px; }
-#player #volumeSlider{ width:21px; background:url(sizerAndVol.png); }
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/83zgfej/vQEm0co2n/baseapple1.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#333; }
-#playlist .module{  color:#333; background-color:#eee; }
-#playlist h3{ background:url(bar.jpg); color:#FFF; background-color:#333; }
-#playlist .even{background-color:#eee;}
-#playlist .odd{ background-color:#ddd;}
-#playlist .focus{ background-color:#666; color:#FFF;}
+#playlist,#playlist .module,#playlist h3{ border-color:#fff; }
+#playlist .module{  color:#333; background-color:#fff; }
+#playlist h3{ background:url(http://static.tumblr.com/gigxqem/uD31zwm3j/awn4.jpg); color:#494949; background-color:#fff; }
+#playlist .even{background-color:#fff;}
+#playlist .odd{ background-color:#fff;}
+#playlist .focus{ background-color:#fff; color:#999;}
